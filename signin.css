@@ -1,6 +1,6 @@
 body {
     background:linear-gradient(to bottom,rgba(29, 31, 29, 0.39), rgba(65, 116, 65, 0.445)),
- url(./assets/img/PG.jpg); 
+ url(PG.jpg); 
  background-attachment: fixed; 
  background-size: cover; 
 }
