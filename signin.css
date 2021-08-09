@@ -1,0 +1,60 @@
+body {
+    background:linear-gradient(to bottom,rgba(29, 31, 29, 0.39), rgba(65, 116, 65, 0.445)),
+ url(./assets/img/PG.jpg); 
+ background-attachment: fixed; 
+ background-size: cover; 
+}
+form {
+    border: 3px solid #f1f1f1;
+  }
+
+  input[type=text], input[type=password] {
+    font-size: 0.9em;
+    width:90%;
+    margin-left:50px;
+    margin-top:20px;
+    padding:10px;
+  color: #fff;
+  font-weight: 100;
+  display: block;
+  border: none;
+  padding: 0.8em;
+  border: solid 1px rgba(255, 255, 255, 0.37);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  }
+
+button {
+    font-size: .9em;
+  color: #fff;
+  background: #76b852;
+  outline: none;
+  border: 1px solid #76b852;
+  cursor: pointer;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  -webkit-appearance: none;
+  width: 100%;
+  margin: 2em 0;
+  letter-spacing: 4px;
+}
+
+.container {
+    padding-top: 50px;
+    padding-left:25px;
+    padding-right:25px;
+  }
+
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+
+  img.avatar {
+    width: 20%;
+    border-radius: 50%;
+  }
